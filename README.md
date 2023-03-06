@@ -21,9 +21,12 @@ The various provisioners that interact with remote servers over SSH or WinRM can
 - Local Exec
 
 # File 
+<img width="953" alt="file_prov" src="https://user-images.githubusercontent.com/108756145/223218152-33fd48bf-8e43-489a-b974-95037baa83b4.png">
 
 
 # Remote Exec
+<img width="957" alt="remote exec prov" src="https://user-images.githubusercontent.com/108756145/223218205-875ef9df-6b4d-48ca-a529-856bfaab5e2f.png">
 
 
 # Local Exec
+<img width="1028" alt="local exec prov" src="https://user-images.githubusercontent.com/108756145/223218242-798f0d0b-fbec-46ab-af24-ab016887dcfd.png">
